@@ -27,15 +27,3 @@ Algumas Tecnologias que gosto codar:
 - Desenvolvimento/modelagem com Banco de Dados SQL Server 2010/2014/2016/2019, programação T-SQL: Modelagem/Estrutura, Views, Packages, Procedures, Triggers, Functions
 - Desenvolvimento/modelagem com base de dados MySQL 5.6, 6, 8: Linguagem SQL, Views, Procedures, Triggers, Functions
 
-
-
-
-
-
-
-
-URL/_layouts/15/stream.aspx?id=%2Fpersonal%2Ff2154%5Fbrasilprev%5Fcom%5Fbr%2FDocuments%2FTreinamento%20LGPD%2FTreinamento%5FLGPD%5FTerceiros%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
-URL=APfel1z6w0-JQLB_dB0JuGC60nUAeoJMqTwVDyrBGgxUQ09VUDBRRFY4OUtPSTVMU0NYSVMxS0xZOC4u
-URL/SeguranadaInformao/Shared%20Documents/Forms/AllItems.aspx?id=%2Fsites%2FSeguranadaInformao%2FShared%20Documents%2FTreinamento%20Dev%20Seguro%2FTreinamento%20Desenvolvimento%20Seguro%5FTerceiro%20%28final%29%2Epdf&parent=%2Fsites%2FSeguranadaInformao%2FShared%20Documents%2FTreinamento%20Dev%KEY
-URL=APfel1z6w0-JQLB_dB0JuGC60nUAeoJMqTwVDyrBGgxUOEFNOTBPVEo0QTg3UUg2WlZQNE8yTTBJOS4u
-
